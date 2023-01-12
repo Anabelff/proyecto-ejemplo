@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76221936-634d-4232-98b2-161c3f070a1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unisys/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="76221936-634d-4232-98b2-161c3f070a1a" name="Changes" comment="Añadido fichero Readne" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +68,32 @@
       <option name="presentableId" value="Default" />
       <updated>1673543658863</updated>
     </task>
+    <task id="LOCAL-00001" summary="Añadido fichero Readne">
+      <created>1673544204718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673544204719</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Añadido fichero Readne">
+      <created>1673544308913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673544308913</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Añadido fichero Readne">
+      <created>1673544343798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673544343798</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Añadido fichero Readne" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadido fichero Readne" />
   </component>
 </project>
