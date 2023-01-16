@@ -3,7 +3,7 @@ package com.unisys.ejercicios;
 public class Estructuras {
     public static void main(String[] args){
         int vueltas=10;
-        int i=1,j=1,k=1;
+        int i=1,j=1,k;
         while (i<=vueltas) {
                 System.out.println("Vamos por la vuelta "+i);
                 i++;
