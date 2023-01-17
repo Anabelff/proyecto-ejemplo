@@ -27,7 +27,7 @@ public class Arrays {
         }
         flotantes[2] = 7.3f;
         System.out.println(flotantes[2]);
+        System.out.println(flotantes[3]);
         System.out.println(flotantes.length);
-
     }
 }
