@@ -11,5 +11,6 @@ public class Cadenas {
         String saludo2="pepe";
         Colores color =new Colores();
         System.out.println(color.ANSI_RED+saludo2.equalsIgnoreCase(saludo)+color.ANSI_RESET);
+        System.out.println("\uD83D\uDC7D"); // y un emoji
     }
 }
