@@ -9,6 +9,7 @@ public class Cadenas {
         System.out.println(saludo.toLowerCase());
         System.out.println(saludo.indexOf("l"));
         String saludo2="pepe";
-        System.out.println(saludo2.equalsIgnoreCase(saludo));
+        Colores color =new Colores();
+        System.out.println(color.ANSI_RED+saludo2.equalsIgnoreCase(saludo)+color.ANSI_RESET);
     }
 }
