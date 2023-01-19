@@ -13,4 +13,15 @@ public class PerroLombok {
     private String dueno;
     private String edad;
     private Date fecha;
+
+    public static class Estaticos {
+        public static final double PI = Math.PI;
+
+        public static void berrinche (){
+            System.out.println("\uD83D\uDE2D");
+            System.out.println("\uD83D\uDC83");
+        }
+
+
+    }
 }

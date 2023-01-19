@@ -25,4 +25,10 @@ public class Variables {
     }
 
 
+    public static class EstaticosApp {
+        public static void main(String[] args) {
+            System.out.println(PerroLombok.Estaticos.PI);
+            PerroLombok.Estaticos.berrinche();
+        }
+    }
 }
