@@ -5,9 +5,9 @@ public class PerroApp {
         Perro toby= new Perro();
         toby.setRaza("terrier");
         System.out.println("la raza de toby es " +toby.getRaza());
-        Perro Heidi =new Perro();
-        Heidi.raza = "collie";
-        System.out.println("la raza de Heidi es " +Heidi.raza);
+        Perro heidi =new Perro();
+        heidi.raza = "collie";
+        System.out.println("la raza de Heidi es " +heidi.raza);
         Perro otto =new Perro();
         System.out.println("la raza de otto es " +otto.raza);
         otto.setRaza("Pastor Aleman");
